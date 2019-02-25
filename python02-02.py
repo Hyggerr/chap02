@@ -263,6 +263,3 @@ print("{0:10.5f}".format(y))
 print("{{ and }}".format())
 print("{ and }")
 
-# 자바에서 배열 선언
-# int[] array = new int[5];
-# string[] strArray = {"배열1", "배열2", "배열3"}
