@@ -40,3 +40,4 @@ print()
 t2 = (3, 4)
 print("튜플 + 연산하기 : {0}".format(t1 + t2))
 print("튜플 * 연산하기 : {0}".format(t1 * 3))
+# ㅘㅘㅓ
